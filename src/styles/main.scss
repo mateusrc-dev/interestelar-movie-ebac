@@ -27,6 +27,7 @@
 
 body {
     background-color: variaveis.$corDeFundo;
+    overflow-x: hidden;
 }
 
 @mixin text($fontSize: 16px) {
